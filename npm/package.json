@@ -1,0 +1,42 @@
+{
+  "name": "google-play-license-verification",
+  "id": "google-play-license-verification",
+  "version": "0.0.1",
+  "description": "Google play (android market) license verification.",
+  "keywords": [
+    "android",
+    "market",
+    "license",
+    "verification",
+    "google",
+    "play"
+  ],
+  "author": {
+    "name": "Motylev Ilya",
+    "email": "ilya_at_csu@mail.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/masterprize/nodejs-google-play-license-verification.git",
+    "web": "https://github.com/masterprize/nodejs-google-play-license-verification"
+  },
+  "bugs": {
+    "url": "https://github.com/masterprize/nodejs-google-play-license-verification/issues"
+  },
+  "devDependencies": {
+    "crypto": ">=0.0.3"
+  },
+  "directories": {
+    "lib": "./"
+  },
+  "licenses": [
+    {
+      "type": "BSD",
+      "url": "https://github.com/masterprize/nodejs-google-play-license-verification/blob/master/LICENSE"
+    }
+  ],
+  "readme": "# Google play (android market) license verification #\n\nNodeJS implementation of php code http://code.google.com/p/android-market-license-verification.\n\n## Install ##\n\n    npm install google-play-license-verification\n\n",
+  "readmeFilename": "Readme.md",
+  "_id": "google-play-license-verification@0.0.1",
+  "_from": "knight@"
+}
